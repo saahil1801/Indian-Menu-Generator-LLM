@@ -8,13 +8,21 @@ Usage
 Pick a Food: Select one of the following Indian food categories:
 
 Samosa
+
 North Indian Food
+
 Panipuri Chaats
+
 Indian Kulfi
+
 Chicken Tandoori
+
 Dosa
+
 Pav Bhaji
+
 The app will display the generated restaurant name and a list of menu items associated with your selected category.
+
 
 ![image](https://github.com/saahil1801/Indian-Restaurant-Name-Menu-Generator-LLM/assets/84408557/29ecfa9f-35d9-423f-b4ad-dc4454fcc346)
 
